@@ -1,34 +1,41 @@
 ---
 # Display name
-title: Gaurav Agarwal
+title: Jovi K
+
+# Full name (for SEO)
+first_name: Jovi
+last_name: K
+
+# Status emoji
+status:
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Masters in Physics
+role: M.Sc. Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Centre for Excellence in Basic Sciences, Mumbai
+  - name: UM-DAE CEBS
     url: https://www.cbs.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include quantum computing on superconducting platforms, machine learning and condensed matter physics.
+bio: My research interests include Plasma Physics and Condensed Matter Physics.
 
 # Interests to show in About widget
 interests:
-  - Quantum Computing
-  - Condensed Matter Physics
-  - Machine Learning
-  - GNU/Linux and Open-Source
+  - Plasma Physics
+  - Superconductivity
+  - 2D Heterostructures
 
 # Education to show in About widget
-# education:
-#   courses:
-#     - course: Int. M.Sc. in Physics
-#       institution: Centre for Excellence in Basic Sciences
-#       year: 2023
+education:
+  courses:
+    - course: Int M.Sc. Physics
+      institution: UM DAE CEBS
+      year: 2018 - 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -37,47 +44,41 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gaurav.agarwal@cbs.ac.in'
-  - icon: twitter
+    link: '/#contact'
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/Gauravagarw
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.instagram.com/thats_brilliantly_crazy/
+    
+#    label: Follow me on Twitter
+#    display:
+#      header: true
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gauravag99
+    link: https://github.com/YouFoundJK
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/gauravagarwal99/
-  - icon: discord
-    icon_pack: fab
-    link: 'https://discordapp.com/users/gauravag#2190'
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+    link: https://www.linkedin.com/in/youfoundjk/
+  # Link to a PDF of your resume/CV.
+  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # and uncomment the lines below.
+#  - icon: cv
+#    icon_pack: ai
+#    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'youfoundjk@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
+I have just completed my postgraduation (Int. M.Sc. in Physics) from the Centre for Excellence in Basic Sciences, Mumbai. I love multidisciplinary approach were I take up inspirations from across disciplines and apply it elsewhere. Although I am inclined more towards theoretical and computations aspects in physics, I have a fair experience in experimental physics as well. My specialisation include Plasma Physics, Superconductivity and 2D Heterostructures.
 
-I'm currently pursuing an  integrated masters in Physics currently at the Centre for Excellence in Basic Sciences, Mumbai. I like diving into technical problems whilst working with my hands as well behind the keyboard.
+Recently, I have been working in Analying the microinstabilities in Hall Thrusters. I have proposed an analytical model and am currently working on matching it with the experimental finding using Numerical and theoretical analysis.
 
-Recently, I have been working towards my Master's Thesis involving QM's FPGA module [OPX](https://www.quantum-machines.co/platform/), optimal qubit control using machine learning as well as component optimisation of the RF chain on the superconducting qubits platform for a 7 qubit ring resonator coupled processor at the [QuMaC Lab](https://www.tifr.res.in/~quantro/index.html), [Tata Institute of Fundamental Research](https://main.tifr.res.in/). 
+{{< icon name="download" pack="fas" >}}Download my CV {{< staticref "uploads/resume.pdf" "newtab" >}}here{{< /staticref >}}.
 
-
-
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
-
-<span style="color:red">"*Simple means genius. Simple means genuine.*"</span>
-
+{style="text-align: justify; color: red"}
